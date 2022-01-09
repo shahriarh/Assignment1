@@ -9,9 +9,12 @@ section{
 .half-width{
     width: 50%;
     padding-left: 5%;
+
 }
 .half-width img{
     width: 60%;
+    /* height:80%; */
+    /* border-radius: 10px; */
 }
 .link-button{
     text-decoration: none;
@@ -67,3 +70,7 @@ section{
   .max-width{
       width: 40%;
   }
+  .app{
+      margin-top:5rem;
+  }
+  
